@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "format": "prettier --write . --ignore-path .gitignore"
+    },
+    "dependencies": {
+        "leetcode-query": "^1.2.3"
+    },
+    "devDependencies": {
+        "@vercel/node": "^3.0.23",
+        "prettier": "^3.2.5",
+        "prettier-plugin-organize-imports": "^3.2.4"
+    }
+}
